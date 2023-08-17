@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img width=30% src="https://gifs.eco.br/wp-content/uploads/2022/10/gif-de-informatica-44.gif"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Raphael+Gimenes+Moreira;I'm+29+years+old;I'm+from+São+Paulo;I+study+it+Centro+Universitário+Adventista+de+São+Paulo;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Raphael+Gimenes+Moreira;I'm+29+years+old;I'm+from+São+Paulo;I'm+studend+of+adventista+university;Welcome!+:%29)](https://git.io/typing-svg)
 </div>
 <br><br><br>
 
